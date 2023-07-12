@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   min-height: 600px;
 }
 
@@ -10,8 +10,9 @@
   .u-section-1 .u-sheet-1 {
     min-height: 238px;
   }
-} .u-section-2 {
-  background-image: url("images/nn.jpg");
+}
+.u-section-2 {
+  background-image: url("/images/nn.jpg");
   background-position: 50% 50%;
   min-height: 1502px;
 }
@@ -21,7 +22,7 @@
   margin-bottom: 0;
   min-height: 1502px;
   height: auto;
-  background-image: linear-gradient(#e9f2fa, rgba(173,204,233,0.43));
+  background-image: linear-gradient(#e9f2fa, rgba(173, 204, 233, 0.43));
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -52,7 +53,12 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717317_y.jpg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717317_y.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -70,7 +76,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -86,7 +92,12 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo16868241204.jpeg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo16868241204.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -104,7 +115,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-5 {
@@ -120,7 +131,12 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717321_y.jpg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717321_y.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -138,7 +154,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-7 {
@@ -154,7 +170,12 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717319_y.jpg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717319_y.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -172,7 +193,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-9 {
@@ -188,7 +209,12 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo16868241202.jpeg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo16868241202.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -206,7 +232,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-11 {
@@ -222,7 +248,12 @@
 }
 
 .u-section-2 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717320_y.jpg');
+  background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url("https://assets.nicepagecdn.com/a4d9ff79/5364090/images/photo_5249231247769717320_y.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -240,7 +271,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(rgba(0,0,0,0.62), rgba(0,0,0,0.67));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.67));
 }
 
 .u-section-2 .u-container-layout-13 {
@@ -294,7 +325,7 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 1173px;
   }
 
@@ -394,7 +425,7 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 1874px;
   }
 
@@ -426,7 +457,7 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 2227px;
   }
 
@@ -504,7 +535,7 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 2134px;
   }
 
@@ -536,7 +567,8 @@
     margin-left: auto;
     margin-right: auto;
   }
-} .u-section-3 {
+}
+.u-section-3 {
   background-image: linear-gradient(black, black);
 }
 
@@ -606,13 +638,15 @@
     margin-left: 0;
     margin-right: 0;
   }
-}@font-face {
-  font-family: 'StingerFit-Bold';
+}
+@font-face {
+  font-family: "StingerFit-Bold";
   font-style: normal;
   font-weight: 400;
   src: url(fonts/StingerFit-Bold.ttf);
-}@font-face {
-  font-family: 'StingerFit-Regular';
+}
+@font-face {
+  font-family: "StingerFit-Regular";
   font-style: normal;
   font-weight: 400;
   src: url(fonts/StingerFit-Regular.ttf);
